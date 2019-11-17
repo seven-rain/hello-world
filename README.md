@@ -1,2 +1,5 @@
 # hello-world
-测试
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript
